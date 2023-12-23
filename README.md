@@ -20,9 +20,9 @@ c# (c#) (WORKING ON)
 
 # CONNECTIONS 
 
-AbrahamsSword (@ig)
+AbrahamsSword (@ig) (Not owned by me but maintained)
 -
 AbyssiveThoughts#9698 (@dc) (I mostly use)
 -
-abyssivethoughts@gmail.com (@gm/em)
+abyssivethoughts@gmail.com (@gm/em) (Barely use, not owned by me)
 -
