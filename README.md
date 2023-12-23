@@ -1,7 +1,9 @@
 
 # ABOUT ME
 
-*I usually out source my code I do, for others to learn further.*
+
+🇺🇸 *I usually outsource my code I do, for others to learn further.*
+🇷🇺 *Обычно я передаю свой код на аутсорсинг, чтобы другие могли учиться дальше.*
 
 # EXPERIENCES
 
