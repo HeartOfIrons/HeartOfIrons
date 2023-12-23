@@ -1,7 +1,7 @@
 
 # ABOUT ME
 
-I usually out source my code I do, for others to learn further.
+*I usually out source my code I do, for others to learn further.*
 
 # EXPERIENCES
 
@@ -12,6 +12,7 @@ Ruby (ru) (WORKING ON)
 C++ (c++) (WORKING ON)
 -
 c# (c#) (WORKING ON)
+-
 
 # CONNECTIONS 
 
