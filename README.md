@@ -1,8 +1,14 @@
 
 # ABOUT ME
 
-I am currently experienced in LuaU, with 5-6 years of experience. Currently learning C++ for more game creating experience.
 I usually out source my code I do, for others to learn further.
+
+# EXPERIENCES
+
+LuaU (luau) (5-6y)
+Ruby (ru) (WORKING ON)
+C++ (c++) (WORKING ON)
+c# (c#) (WORKING ON)
 
 # CONNECTIONS 
 
