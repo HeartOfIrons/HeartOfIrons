@@ -11,11 +11,11 @@
 
 LuaU (luau) (5-6y)
 -
-Ruby (ru) (WORKING ON)
+Ruby (ru) (1mo)
 -
-C++ (c++) (WORKING ON)
+C++ (c++) (0m)
 -
-c# (c#) (WORKING ON)
+c# (c#) (0m)
 -
 
 # CONNECTIONS 
