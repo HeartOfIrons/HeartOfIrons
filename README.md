@@ -20,9 +20,9 @@ c# (c#) (0m)
 
 # CONNECTIONS 
 
-AbrahamsSword (@ig) (Not owned by me but maintained)
+[AbrahamsSword](https://www.instagram.com/abrahamssword) (@ig) (Not owned by me but maintained)
 -
-AbyssiveThoughts#9698 (@dc) (I mostly use)
+[AbyssiveThoughts#9698](https://discord.com/channels/@me) (@dc) (I mostly use)
 -
 ecotech.inq@gmail.com (@gm/em) (Inquiries or support, help, or other)
 -
