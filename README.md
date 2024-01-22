@@ -8,7 +8,7 @@
 🇫🇷 *Je partage fréquemment mes projets de codage pour contribuer aux expériences d'apprentissage des autres. Originaire de Biélorussie, j'ai commencé mon parcours de programmation avec LuaU de Roblox. Actuellement, j'élargis mes compétences en me plongeant dans Ruby et j'ai l'intention de maîtriser le C++ et le C# à l'avenir. En dehors du codage / programmation, j'ai été instrumentiste d'orchestre en tant que violoncelle pendant 2 ans. De plus, je suis le fondateur d'un serveur de 100 membres et joue un rôle crucial dans une Agence de renseignement en tant que commandement principal du Conseil. Mes divers intérêts et rôles reflètent ma volonté de croissance et de contribution continues. Je suis toujours disponible pour tout besoin, que ce soit payant ou gratuit, je suis prêt.*
 -
 
-# EXPERIENCES
+# EXPERIENCES | опыт | EXPÉRIENCES
 
 LuaU (luau) (5-6y)
 -
@@ -19,7 +19,7 @@ C++ (c++) (0m)
 c# (c#) (0m)
 -
 
-# CONNECTIONS 
+# CONNECTIONS | связи | CONNEXIONS
 
 [AbrahamsSword](https://www.instagram.com/abrahamssword) (@ig) (Not owned by me but maintained)
 -
