@@ -10,6 +10,10 @@
 
 # EXPERIENCES | опыт | EXPÉRIENCES
 
+Quantum Relativity (1y)
+-
+Programming:
+-
 LuaU (luau) (5-6y)
 -
 Ruby (ru) (1mo)
