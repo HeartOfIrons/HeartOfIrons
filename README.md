@@ -10,17 +10,20 @@
 
 # EXPERIENCES | опыт | EXPÉRIENCES
 
+English (Native)
+French (1y)
+Russian (3mo)
+Belarusian (Native)
+-
+Orchestra (1y, Cello, discontinued)
+Chess (1y, discontinued)
 Quantum Relativity (1y)
 -
-Programming:
--
-LuaU (luau) (5-6y)
--
-Ruby (ru) (1mo)
--
 C++ (c++) (0m)
--
 c# (c#) (0m)
+LuaU (luau) (5-6y)
+VR LuaU (1-2mo)
+Ruby (ru) (1mo)
 -
 
 # CONNECTIONS | связи | CONNEXIONS
