@@ -20,7 +20,7 @@ Chess (1y, discontinued)
 Quantum Relativity (1y)
 -
 C++ (c++) (0m)
-c# (c#) (0m)
+c# (c#) (1m)
 LuaU (luau) (5-6y)
 VR LuaU (1-2mo)
 Ruby (ru) (1mo)
