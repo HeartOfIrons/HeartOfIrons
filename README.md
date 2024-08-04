@@ -12,17 +12,17 @@
 
 English (Native)
 French (1y)
-Russian (3mo)
+Russian (6mo)
 Belarusian (Native)
 -
 Orchestra (1y, Cello, discontinued)
 Chess (1y, discontinued)
-Quantum Relativity (1y)
+Quantum Relativity (1.2y)
 -
-C++ (c++) (0m)
-c# (c#) (1m)
-LuaU (luau) (5-6y)
-VR LuaU (1-2mo)
+C++ (c++) (1m)
+c# (c#) (2m)
+LuaU (luau) (6y)
+VR LuaU (2mo)
 Ruby (ru) (1mo)
 -
 
