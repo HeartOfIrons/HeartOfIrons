@@ -7,9 +7,7 @@ For now, I just glide, and code as I can, with what I know.
 ----------
 ### Contact
 
-I'm reachable primarily by my Discord, but you may use my business email to reach me directly or on serious intents.
-
-**Discord:** `abyssivethoughts`
+You may use my business email to reach me directly or on serious intents.
 
 **Business Email:** `ecotech.inq@gmail.com`
 
