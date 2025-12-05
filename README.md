@@ -1,4 +1,4 @@
-**HeartOfIrons**, originally a *LuaU* programmer at 10 and forwarded to 6 years. I'm now a dual backend-frontend developer, *Python* enthusiast, *Rust* programmer, cybersecurity analyst, and Internal Supervisor of *EcoTech*.
+**HeartOfIrons**, originally a *LuaU* programmer at 10 and forwarded to 7 years. I'm now a dual backend-frontend developer, *Python* enthusiast, *Rust* programmer, cybersecurity analyst, and Internal Supervisor of *EcoTech*.
 
 I've studied and performed Cello in Orchestra, I've learned Chess for 2 years, and I'm working on studying the [Many-Worlds Interpretation](https://en.wikipedia.org/wiki/Many-worlds_interpretation) as part of my journey in Quantum Theory.
 
